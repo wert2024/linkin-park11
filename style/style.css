@@ -1,0 +1,91 @@
+body {
+    background-color: antiquewhite;
+    width: 1000px;
+    margin: 75px auto;
+    font-size: 22px;
+}
+
+.text-bolt {
+    font-weight: bold;
+}
+
+.one {
+    text-align: center;
+    font-size: 38px;
+}
+
+.one_2{
+    text-align: center;
+}
+
+.two {
+    text-align: center;
+}
+
+.foto {
+    text-align: center;
+    margin: 0px auto;
+    margin-top: 75px;
+}
+
+.foto_Mike_Shinoda {
+    display: block;
+    margin: 0px auto;
+    border-radius: 2%;
+}
+
+.foto_Brad_Delson {
+    display: block;
+    width: 75%;
+    margin: 0px auto;
+    border-radius: 2%;
+}
+
+.foto_David_Farrell {
+    display: block;
+    margin: 0px auto;
+    border-radius: 2%;
+}
+
+.foto_Joe_Hahn {
+    display: block;
+    width: 50%;
+    margin: 0px auto;
+    border-radius: 2%; 
+}
+
+.foto_Emily_Armstrong {
+    display: block;
+    width: 50%;
+    margin: 0px auto;
+    border-radius: 2%; 
+}
+
+.foto_Colin_Brittain {
+    display: block;
+    width: 75%;
+    margin: 0px auto;
+    border-radius: 2%;
+    margin-bottom: 100px;
+}
+
+.foto_Chester_Bennington {
+    display: block;
+    width: 75%;
+    margin: 0px auto;
+    border-radius: 2%; 
+}
+
+.foto_Rob_Bourdon {
+    display: block;
+    width: 55%;
+    margin: 0px auto;
+    border-radius: 2%;
+    margin-bottom: 75px; 
+}
+
+.foto_Chester {
+    margin: 0%;
+    text-align: center;
+    font-size: 18px;
+}
